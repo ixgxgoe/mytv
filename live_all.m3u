@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,====== 央视频道 ======
+http://0/0.m3u8
 #EXTINF:-1 ,CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 ,CCTV-1
@@ -181,6 +183,8 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 #EXTINF:-1 ,CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 ,====== 卫视频道 ======
+http://1/1.m3u8
 #EXTINF:-1 ,安多卫视
 http://183.207.248.71/gitv/live1/G_ANDUO/G_ANDUO
 #EXTINF:-1 ,安多卫视
@@ -487,6 +491,8 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-c
 http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
 #EXTINF:-1 ,重庆卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1 ,====== 欢乐剧场 ======
+http://2/2.m3u8
 #EXTINF:-1 ,古装剧场
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/1.m3u8
 #EXTINF:-1 ,古装剧场
@@ -549,6 +555,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/1.m3u8
 #EXTINF:-1 ,潮妈辣婆
 http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 ,====== 超级影院 ======
+http://3/3.m3u8
 #EXTINF:-1 ,超级电影-1
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 ,超级电影-2
@@ -583,6 +591,8 @@ http://117.148.179.160/PLTV/88888888/224/3221231565/index.m3u8
 http://125.210.152.21:9120/live/YZYY.m3u8
 #EXTINF:-1 ,精彩影视
 http://125.210.152.21:9120/live/JCYS.m3u8
+#EXTINF:-1 ,====== 竞技体育 ======
+http://4/4.m3u8
 #EXTINF:-1 ,电子竞技
 http://125.210.152.21:9120/live/DZJJ.m3u8
 #EXTINF:-1 ,游戏风云
@@ -631,6 +641,8 @@ http://183.207.248.71/gitv/live1/G_LANQIU/G_LANQIU
 http://stream1.jlntv.cn/lqpd/playlist.m3u8?_upt=3053ae9f1582302081
 #EXTINF:-1 ,吉林篮球频道
 http://stream1.jlntv.cn/lqpd/playlist.m3u8?_upt=2d83155d1578416512
+#EXTINF:-1 ,====== 超级综艺 ======
+http://5/5.m3u8
 #EXTINF:-1 ,风尚音乐
 http://125.210.152.21:9120/live/FSYY.m3u8
 #EXTINF:-1 ,金牌综艺
@@ -725,6 +737,8 @@ http://stream2.xiancity.cn/xatv6/playlist.m3u8
 https://jsylivealone302.iqilu.com/live/yuncheng_tv02/index.m3u8
 #EXTINF:-1 ,郓城民生综艺
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
+#EXTINF:-1 ,====== 少儿卡通 ======
+http://6/6.m3u8
 #EXTINF:-1 ,江苏优漫卡通
 http://223.110.251.152:6610/cntv/live1/youmankaton/youmankaton
 #EXTINF:-1 ,江苏优漫卡通
@@ -801,6 +815,8 @@ http://live.appwuhan.com/7tzb/sd/live.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 ,浙江少儿台
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 ,====== 直播-游戏赛事 ======
+http://7/7.m3u8
 #EXTINF:-1 ,[虎牙]LPL比赛
 http://dllb.jxin122.top/huya.php?id=660000
 #EXTINF:-1 ,[虎牙]LPL比赛-副台
@@ -817,6 +833,8 @@ http://dllb.jxin122.top/huya.php?id=660113
 http://dllb.jxin122.top/huya.php?id=660138
 #EXTINF:-1 ,[虎牙]LPL比赛-第一视角
 http://dllb.jxin122.top/huya.php?id=660139
+#EXTINF:-1 ,====== 直播-游戏 ======
+http://8/8.m3u8
 #EXTINF:-1 ,[虎牙]UZI污渍
 http://dllb.jxin122.top/huya.php?id=100
 #EXTINF:-1 ,[虎牙]张大仙
@@ -875,6 +893,8 @@ http://dyscdnali1.douyucdn.cn/live/911rsaobai_4000.flv
 http://dyscdnali1.douyucdn.cn/live/9408500rRouPQiF9.flv
 #EXTINF:-1 ,[斗鱼]若若跑的贼快-每天下午4~5点开播！
 http://dyscdnali1.douyucdn.cn/live/9263298roClfUg8h_4000.flv
+#EXTINF:-1 ,====== 斗鱼-一起看 ======
+http://9/9.m3u8
 #EXTINF:-1 ,[斗鱼]万合出品-【万合天宜】王大锤情怀上线
 http://dyscdnali1.douyucdn.cn/live/9220456rJU0ek7q8_4000.flv
 #EXTINF:-1 ,[斗鱼]活捉一只小怡寶-怡寳  国民女友陪看
@@ -951,6 +971,8 @@ http://dyscdnali1.douyucdn.cn/live/218859rUOMSqMNs5_4000.flv
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.flv
 #EXTINF:-1 ,[斗鱼]Rainsunn-【小宇60帧】科幻 动作 喜剧 电影
 http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E_4000.flv
+#EXTINF:-1 ,====== 斗鱼-原创IP ======
+http://10/10.m3u8
 #EXTINF:-1 ,[斗鱼]万合出品-【万合天宜】王大锤情怀上线
 http://dyscdnali1.douyucdn.cn/live/9220456rJU0ek7q8_4000.flv
 #EXTINF:-1 ,[斗鱼]特辑电影院-【特辑】新片上映，欢迎点播
@@ -1003,6 +1025,8 @@ http://dyscdnali1.douyucdn.cn/live/309162rPRlmRLL3X_4000.flv
 http://dyscdnali1.douyucdn.cn/live/10011042r5Yn0ny1_4000.flv
 #EXTINF:-1 ,[斗鱼]黑子影视haoyin1234-[德哥 贝爷]荒野生存系列
 http://dyscdnali1.douyucdn.cn/live/1339207rSJ8cfC8O.flv
+#EXTINF:-1 ,====== 虎牙-电影轮播 ======
+http://11/11.m3u8
 #EXTINF:-1 ,[虎牙]八点档
 http://dllb.jxin122.top/huya.php?id=880261
 #EXTINF:-1 ,[虎牙]周星星
@@ -1121,6 +1145,8 @@ http://dllb.jxin122.top/huya.php?id=11602077
 http://dllb.jxin122.top/huya.php?id=11601965
 #EXTINF:-1 ,[虎牙]鬼才徐克
 http://dllb.jxin122.top/huya.php?id=11352909
+#EXTINF:-1 ,====== 企鹅电竞 ======
+http://12/12.m3u8
 #EXTINF:-1 ,[企鹅]德云社专场
 http://3954-out.liveplay.myqcloud.com/live/3954_468780224.flv?bizid=3954&txSecret=c14fb5a952bdd2b076ce2831feb08297&txTime=61f3b603
 #EXTINF:-1 ,[企鹅]爱情公寓
@@ -1135,6 +1161,8 @@ http://3954-out.liveplay.myqcloud.com/live/3954_410903700.flv?bizid=3954&txSecre
 http://3954-out.liveplay.myqcloud.com/live/3954_410903700_2000.flv?bizid=3954&txSecret=ebaf563d9b856022bfb6c1bb2898d55d&txTime=61f503ac
 #EXTINF:-1 ,[企鹅]柯南
 http://3954-out.liveplay.myqcloud.com/live/3954_410903700_1200.flv?bizid=3954&txSecret=f2adb3ec28af06d9937bef1211f6274e&txTime=61f503ac
+#EXTINF:-1 ,====== 芒果直播 ======
+http://13/13.m3u8
 #EXTINF:-1 ,[芒果TV]直播-1
 http://117.148.179.160/PLTV/88888888/224/3221231276/index.m3u8
 #EXTINF:-1 ,[芒果TV]直播-2
